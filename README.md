@@ -1,7 +1,6 @@
 # Digital Literacy Project
 
-Name: Vikas Tiwari
-Regestration Number- 25MIM10105
+Name: Vikas Tiwari  
 Course: CSE0001 – Digital Literacy  
 
 ## Project Overview
